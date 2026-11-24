@@ -1,0 +1,1 @@
+README.md created by the Sensei Tunnel admin panel — this repo holds the encrypted app config bundles (`.enc`) that the Android app downloads. Files appear here after an admin publishes from the Worker panel.
